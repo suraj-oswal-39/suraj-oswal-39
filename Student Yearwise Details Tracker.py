@@ -1,4 +1,4 @@
-#python code:
+#Python Code:
 #Student Yearwise Details Tracker
 
 class Student:
