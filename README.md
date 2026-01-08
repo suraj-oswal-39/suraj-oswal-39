@@ -14,6 +14,6 @@ https://suraj-oswal-39.github.io/Flexbox-Playground/
 
 https://suraj-oswal-39.github.io/Game-Library/
 
-https://suraj-oswal-39.github.io/inventory_system/
+https://suraj-oswal-39.github.io/inventory_system/html/
 
 https://suraj-oswal-39.github.io/Spotify-Clone-Project/
