@@ -1,4 +1,4 @@
-print("- 👋 Hi, I’m @suraj-oswal-39")
+print("- 👋 Hi, I’m suraj oswal")
 
 print("- 👀 I’m interested in paid internship")
 
