@@ -10,6 +10,9 @@ print("- ⚡ Fun fact: can you tell what bugging me while coding?")
 
 This is my project link:
 
+Simple Calculator
+https://suraj-oswal-39.github.io/calculator_project/
+
 Flexbox Playground
 https://suraj-oswal-39.github.io/Flexbox-Playground/
 
